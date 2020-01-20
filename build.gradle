@@ -38,4 +38,7 @@ dependencies {
     compile('com.h2database:h2')
     //mustache
     compile('org.springframework.boot:spring-boot-starter-mustache')
+    //spring security
+    compile('org.springframework.boot:spring-boot-starter-oauth2-client')
+    //classpath 'com.google.gms:google-services:4.2.0'
 }
