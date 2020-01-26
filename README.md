@@ -7,3 +7,4 @@
 * JPA
 * gradle
 * JDK 1.8
+* AWS
